@@ -1,0 +1,10 @@
+C:\Users\kobza\source\repos\XmlRpc\ClientRpc\bin\Debug\ClientRpc.exe.config
+C:\Users\kobza\source\repos\XmlRpc\ClientRpc\bin\Debug\ClientRpc.exe
+C:\Users\kobza\source\repos\XmlRpc\ClientRpc\bin\Debug\ClientRpc.pdb
+C:\Users\kobza\source\repos\XmlRpc\ClientRpc\bin\Debug\CookComputing.XmlRpcServerV2.dll
+C:\Users\kobza\source\repos\XmlRpc\ClientRpc\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\kobza\source\repos\XmlRpc\ClientRpc\obj\Debug\ClientRpc.csproj.AssemblyReference.cache
+C:\Users\kobza\source\repos\XmlRpc\ClientRpc\obj\Debug\ClientRpc.csproj.CoreCompileInputs.cache
+C:\Users\kobza\source\repos\XmlRpc\ClientRpc\obj\Debug\ClientRpc.csproj.Up2Date
+C:\Users\kobza\source\repos\XmlRpc\ClientRpc\obj\Debug\ClientRpc.exe
+C:\Users\kobza\source\repos\XmlRpc\ClientRpc\obj\Debug\ClientRpc.pdb
